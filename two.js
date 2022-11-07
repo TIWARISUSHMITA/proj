@@ -1,6 +1,6 @@
 
 class Account{
-    min Bal=5000;
+    min_Bal=5000;
     get_Balance()
     {
         console.log("server is down");
